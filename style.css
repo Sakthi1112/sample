@@ -20,7 +20,7 @@ body {
   position: absolute;
   /* top: 150px;
   left: 2200px; */
-  width: calc(20vw + 60px);
+  width: calc(30vw + 60px);
   height: calc(90vh + 60px);
   z-index: -1;
   filter: blur(0px);
